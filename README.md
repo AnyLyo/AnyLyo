@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnyLyo
-- 👀 I’m interested in most things.
-- 🌱 I’m currently learning Spring and so on...
+👋 *** Hi, I’m @AnyLyo
+👀 *** I’m interested in most things.
+🌱 *** I’m currently learning Spring and so on...
 
 
 <!---
